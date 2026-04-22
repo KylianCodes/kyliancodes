@@ -3,8 +3,8 @@
 #### :clock2: Recent activity
 
 
-- [KylianCodes/pocketwish](https://github.com/KylianCodes/pocketwish) - Add wishes, share a link, enjoy! (1 day ago)
-- [KylianCodes/kyliancodes](https://github.com/KylianCodes/kyliancodes) - My GitHub Profile! (2 days ago)
+- [KylianCodes/pocketwish](https://github.com/KylianCodes/pocketwish) - Add wishes, share a link, enjoy! (2 days ago)
+- [KylianCodes/kyliancodes](https://github.com/KylianCodes/kyliancodes) - My GitHub Profile! (3 days ago)
 
 #### :rocket: My lastest projects
 
