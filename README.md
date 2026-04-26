@@ -1,11 +1,17 @@
 ### :wave: Hello There
 
+#### :seedling: Currently Learning
+
+- **Flutter** — Building [wizard-companion](https://github.com/kyliancodes/wizard-companion) (iOS/Android)
+
+[![Learning](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
+
 #### :clock2: Recent activity
 
 
 - [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle) - Symfony bundle to integrate Gravatar service into your application. (today)
+- [KylianCodes/kyliancodes](https://github.com/KylianCodes/kyliancodes) - My GitHub Profile! (today)
 - [KylianCodes/wizard-companion](https://github.com/KylianCodes/wizard-companion) - Mobile companion app for Wizard Card Game. (today)
-- [KylianCodes/kyliancodes](https://github.com/KylianCodes/kyliancodes) - My GitHub Profile! (2 days ago)
 - [KylianCodes/pocketwish](https://github.com/KylianCodes/pocketwish) - Add wishes, share a link, enjoy! (6 days ago)
 
 #### :rocket: My lastest projects
@@ -16,7 +22,7 @@
 - [KylianCodes/pocketwish](https://github.com/KylianCodes/pocketwish) - Add wishes, share a link, enjoy!
 - [KylianCodes/kyliancodes](https://github.com/KylianCodes/kyliancodes) - My GitHub Profile!
 
-#### Languages and Tools
+#### :book: Languages and Tools
 
 [![Techs](https://skillicons.dev/icons?i=symfony,vue,html,css,tailwind,nodejs)](https://skillicons.dev)
 
