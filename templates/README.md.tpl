@@ -1,5 +1,11 @@
 ### :wave: Hello There
 
+#### :seedling: Currently Learning
+
+- **Flutter** — Building [wizard-companion](https://github.com/kyliancodes/wizard-companion) (iOS/Android)
+
+[![Learning](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
+
 #### :clock2: Recent activity
 
 {{range recentContributions 5}}
@@ -12,7 +18,7 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### Languages and Tools
+#### :book: Languages and Tools
 
 [![Techs](https://skillicons.dev/icons?i=symfony,vue,html,css,tailwind,nodejs)](https://skillicons.dev)
 
