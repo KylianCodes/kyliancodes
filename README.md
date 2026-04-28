@@ -9,7 +9,7 @@
 #### :clock2: Recent activity
 
 
-- [KylianCodes/wizard-companion](https://github.com/KylianCodes/wizard-companion) - Mobile companion app for Wizard Card Game. (1 day ago)
+- [KylianCodes/wizard-companion](https://github.com/KylianCodes/wizard-companion) - Mobile companion app for Wizard Card Game. (today)
 - [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle) - Symfony bundle to integrate Gravatar service into your application. (2 days ago)
 - [KylianCodes/kyliancodes](https://github.com/KylianCodes/kyliancodes) - My GitHub Profile! (2 days ago)
 - [KylianCodes/pocketwish](https://github.com/KylianCodes/pocketwish) - Add wishes, share a link, enjoy! (1 week ago)
