@@ -10,7 +10,7 @@
 
 {{range recentPullRequests 5}}
 - [{{.Repo.Name}}]({{.URL}}) — {{.Title}} ({{humanize .CreatedAt}})
-{{- end}}{{- end}}
+{{- end}}
 
 #### :rocket: My lastest projects
 
