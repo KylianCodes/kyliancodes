@@ -1,22 +1,26 @@
 ### :wave: Hello There
 
-#### :seedling: Currently Learning
-
-- **Flutter** — Building [wizard-companion](https://github.com/kyliancodes/wizard-companion) (iOS/Android)
-
-[![Learning](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
-
 #### :clock2: Recent activity
 
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
+#### :handshake: Open Source Contributions
+
+{{range recentPullRequests 5}}{{if not (contains "kyliancodes" .Repo.URL)}}
+- [{{.Repo.Name}}]({{.URL}}) — {{.Title}} ({{humanize .CreatedAt}})
+{{- end}}{{- end}}
+
 #### :rocket: My lastest projects
 
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
+
+#### :seedling: Currently Learning
+
+- **Flutter** — Building [wizard-companion](https://github.com/kyliancodes/wizard-companion) (iOS/Android)
 
 #### :book: Languages and Tools
 
