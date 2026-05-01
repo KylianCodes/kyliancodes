@@ -8,7 +8,7 @@
 
 #### :handshake: Open Source Contributions
 
-{{range recentPullRequests 5}}{{if not (contains "kyliancodes" .Repo.URL)}}
+{{range recentPullRequests 5}}
 - [{{.Repo.Name}}]({{.URL}}) — {{.Title}} ({{humanize .CreatedAt}})
 {{- end}}{{- end}}
 
