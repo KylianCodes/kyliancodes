@@ -3,15 +3,15 @@
 #### :clock2: Recent activity
 
 
-- [KylianCodes/kyliancodes](https://github.com/KylianCodes/kyliancodes) - My GitHub Profile! (2 days ago)
-- [KylianCodes/wizard-companion](https://github.com/KylianCodes/wizard-companion) - Mobile companion app for Wizard Card Game. (2 days ago)
+- [KylianCodes/kyliancodes](https://github.com/KylianCodes/kyliancodes) - My GitHub Profile! (3 days ago)
+- [KylianCodes/wizard-companion](https://github.com/KylianCodes/wizard-companion) - Mobile companion app for Wizard Card Game. (3 days ago)
 - [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle) - Symfony bundle to integrate Gravatar service into your application. (1 week ago)
-- [KylianCodes/pocketwish](https://github.com/KylianCodes/pocketwish) - Add wishes, share a link, enjoy! (1 week ago)
+- [KylianCodes/pocketwish](https://github.com/KylianCodes/pocketwish) - Add wishes, share a link, enjoy! (2 weeks ago)
 
 #### :handshake: Open Source Contributions
 
 
-- [symfony/ux](https://github.com/symfony/ux/pull/3510) —  feat(toolkit): add MultiSelect component for shadcn kit (2 days ago)
+- [symfony/ux](https://github.com/symfony/ux/pull/3510) —  feat(toolkit): add MultiSelect component for shadcn kit (3 days ago)
 - [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle/pull/1) — Prepare stable release v1.0.0 (1 week ago)
 
 #### :rocket: My lastest projects
