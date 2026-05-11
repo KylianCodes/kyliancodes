@@ -3,11 +3,11 @@
 #### :clock2: Recent activity
 
 
-- [KylianCodes/php-internals](https://github.com/KylianCodes/php-internals) - What really happens under the hood of Symfony. (today)
+- [KylianCodes/php-internals](https://github.com/KylianCodes/php-internals) - What really happens under the hood of Symfony. (1 day ago)
 - [KylianCodes/kyliancodes](https://github.com/KylianCodes/kyliancodes) - My GitHub Profile! (1 week ago)
 - [KylianCodes/wizard-companion](https://github.com/KylianCodes/wizard-companion) - Mobile companion app for Wizard Card Game. (1 week ago)
 - [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle) - Symfony bundle to integrate Gravatar service into your application. (2 weeks ago)
-- [KylianCodes/pocketwish](https://github.com/KylianCodes/pocketwish) - Add wishes, share a link, enjoy! (2 weeks ago)
+- [KylianCodes/pocketwish](https://github.com/KylianCodes/pocketwish) - Add wishes, share a link, enjoy! (3 weeks ago)
 
 #### :handshake: Open Source Contributions
 
