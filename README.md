@@ -3,7 +3,7 @@
 #### :clock2: Recent activity
 
 
-- [KylianCodes/folio](https://github.com/KylianCodes/folio) - Personal blog powered by Symfony. Sync markdown from GitHub, compiles to HTML, and auto-published to LinkedIn. (2 days ago)
+- [KylianCodes/folio](https://github.com/KylianCodes/folio) - Personal blog powered by Symfony. Sync markdown from GitHub, compiles to HTML, and auto-published to LinkedIn. (today)
 - [KylianCodes/php-internals](https://github.com/KylianCodes/php-internals) - What really happens under the hood of Symfony. (6 days ago)
 - [KylianCodes/kyliancodes](https://github.com/KylianCodes/kyliancodes) - My GitHub Profile! (2 weeks ago)
 - [KylianCodes/wizard-companion](https://github.com/KylianCodes/wizard-companion) - Mobile companion app for Wizard Card Game. (2 weeks ago)
