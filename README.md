@@ -3,17 +3,17 @@
 #### :clock2: Recent activity
 
 
-- [KylianCodes/folio](https://github.com/KylianCodes/folio) - Personal blog powered by Symfony. Sync markdown from GitHub, compiles to HTML, and auto-published to LinkedIn. (today)
-- [KylianCodes/php-internals](https://github.com/KylianCodes/php-internals) - What really happens under the hood of Symfony. (6 days ago)
+- [KylianCodes/folio](https://github.com/KylianCodes/folio) - Personal blog powered by Symfony. Sync markdown from GitHub, compiles to HTML, and auto-published to LinkedIn. (1 day ago)
+- [KylianCodes/php-internals](https://github.com/KylianCodes/php-internals) - What really happens under the hood of Symfony. (1 week ago)
 - [KylianCodes/kyliancodes](https://github.com/KylianCodes/kyliancodes) - My GitHub Profile! (2 weeks ago)
 - [KylianCodes/wizard-companion](https://github.com/KylianCodes/wizard-companion) - Mobile companion app for Wizard Card Game. (2 weeks ago)
-- [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle) - Symfony bundle to integrate Gravatar service into your application. (2 weeks ago)
+- [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle) - Symfony bundle to integrate Gravatar service into your application. (3 weeks ago)
 
 #### :handshake: Open Source Contributions
 
 
 - [symfony/ux](https://github.com/symfony/ux/pull/3510) —  feat(toolkit): add MultiSelect component for shadcn kit (2 weeks ago)
-- [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle/pull/1) — Prepare stable release v1.0.0 (2 weeks ago)
+- [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle/pull/1) — Prepare stable release v1.0.0 (3 weeks ago)
 
 #### :rocket: My lastest projects
 
