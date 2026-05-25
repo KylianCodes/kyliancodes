@@ -3,11 +3,11 @@
 #### :clock2: Recent activity
 
 
-- [KylianCodes/folio](https://github.com/KylianCodes/folio) - Personal blog powered by Symfony. Sync markdown from GitHub, compiles to HTML, and auto-published to LinkedIn. (5 days ago)
 - [KylianCodes/php-internals](https://github.com/KylianCodes/php-internals) - What really happens under the hood of Symfony. (2 weeks ago)
 - [KylianCodes/kyliancodes](https://github.com/KylianCodes/kyliancodes) - My GitHub Profile! (3 weeks ago)
 - [KylianCodes/wizard-companion](https://github.com/KylianCodes/wizard-companion) - Mobile companion app for Wizard Card Game. (3 weeks ago)
 - [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle) - Symfony bundle to integrate Gravatar service into your application. (4 weeks ago)
+- [KylianCodes/pocketwish](https://github.com/KylianCodes/pocketwish) - Add wishes, share a link, enjoy! (1 month ago)
 
 #### :handshake: Open Source Contributions
 
@@ -18,11 +18,11 @@
 #### :rocket: My lastest projects
 
 
-- [KylianCodes/folio](https://github.com/KylianCodes/folio) - Personal blog powered by Symfony. Sync markdown from GitHub, compiles to HTML, and auto-published to LinkedIn.
 - [KylianCodes/php-internals](https://github.com/KylianCodes/php-internals) - What really happens under the hood of Symfony.
 - [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle) - Symfony bundle to integrate Gravatar service into your application.
 - [KylianCodes/wizard-companion](https://github.com/KylianCodes/wizard-companion) - Mobile companion app for Wizard Card Game.
 - [KylianCodes/pocketwish](https://github.com/KylianCodes/pocketwish) - Add wishes, share a link, enjoy!
+- [KylianCodes/kyliancodes](https://github.com/KylianCodes/kyliancodes) - My GitHub Profile!
 
 #### :seedling: Currently Learning
 
