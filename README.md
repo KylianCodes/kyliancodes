@@ -6,14 +6,14 @@
 - [KylianCodes/php-internals](https://github.com/KylianCodes/php-internals) - What really happens under the hood of Symfony. (2 weeks ago)
 - [KylianCodes/kyliancodes](https://github.com/KylianCodes/kyliancodes) - My GitHub Profile! (3 weeks ago)
 - [KylianCodes/wizard-companion](https://github.com/KylianCodes/wizard-companion) - Mobile companion app for Wizard Card Game. (3 weeks ago)
-- [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle) - Symfony bundle to integrate Gravatar service into your application. (4 weeks ago)
+- [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle) - Symfony bundle to integrate Gravatar service into your application. (1 month ago)
 - [KylianCodes/pocketwish](https://github.com/KylianCodes/pocketwish) - Add wishes, share a link, enjoy! (1 month ago)
 
 #### :handshake: Open Source Contributions
 
 
 - [symfony/ux](https://github.com/symfony/ux/pull/3510) —  feat(toolkit): add MultiSelect component for shadcn kit (3 weeks ago)
-- [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle/pull/1) — Prepare stable release v1.0.0 (4 weeks ago)
+- [KylianCodes/GravatarBundle](https://github.com/KylianCodes/GravatarBundle/pull/1) — Prepare stable release v1.0.0 (1 month ago)
 
 #### :rocket: My lastest projects
 
